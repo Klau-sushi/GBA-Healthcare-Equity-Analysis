@@ -5,7 +5,6 @@
 ### 1. 深圳市“港澳药械通”政策空间分布 · 在线交互地图
 
 **[>> 点击此处，在线体验交互地图 <<](https://klau-sushi.github.io/GBA-Healthcare-Equity-Analysis/港澳药械通政策空间评估地图_密度热力版.html)**
-*(请将 `map.html` 替换为你上传的html文件的准确名称)*
 
 
 
